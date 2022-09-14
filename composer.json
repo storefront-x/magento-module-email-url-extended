@@ -1,6 +1,6 @@
 {
   "name": "storefrontx/module-email-url-extended",
-  "description": "N/A",
+  "description": "Magento 2 module extends Magento Email module, the module requires StorefrontX SfxStoreConfig module",
   "type": "magento2-module",
   "require": {
     "magento/framework": "*",
