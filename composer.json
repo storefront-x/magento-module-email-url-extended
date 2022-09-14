@@ -1,0 +1,21 @@
+{
+  "name": "storefrontx/module-email-url-extended",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "magento/module-email": "*",
+    "storefrontx/module-sfx-store-config": "*"
+  },
+  "license": [
+    "Proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "StorefrontX\\EmailURLExtended\\": ""
+    }
+  }
+}

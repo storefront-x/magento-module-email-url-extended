@@ -1,2 +1,5 @@
-# module-email-url-extended
-Magento 2 module extends Magento Email module, the module requires StorefrontX SfxStoreConfig module
+# Email URL Extended
+Module for Magento 2
+
+**StorefrontX_EmailURLExtended** extends Magento Email module, the module requires StorefrontX SfxStoreConfig module
+
