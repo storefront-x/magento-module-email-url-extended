@@ -1,5 +1,5 @@
 {
-  "name": "storefront-x/module-email-url-extended",
+  "name": "storefront-x/magento-module-email-url-extended",
   "description": "Magento 2 module extends Magento Email module, this module requires StorefrontX SfxStoreConfig module",
   "type": "magento2-module",
   "homepage": "https://github.com/storefront-x/magento-module-email-url-extended",
