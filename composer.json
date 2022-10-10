@@ -6,7 +6,7 @@
   "require": {
     "magento/framework": "^103.0.2",
     "magento/module-email": "^101.1.2",
-    "storefront-x/module-sfx-store-config": "^1.0.1"
+    "storefront-x/magento-module-sfx-store-config": "^1.0.1"
   },
   "license": [
     "MIT"
