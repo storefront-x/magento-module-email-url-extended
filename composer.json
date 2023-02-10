@@ -18,5 +18,6 @@
     "psr-4": {
       "StorefrontX\\EmailURLExtended\\": ""
     }
-  }
+  },
+  "abandoned": true
 }
